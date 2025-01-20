@@ -4,12 +4,12 @@
 ### 안녕하세요. 예비 개발자 dustkim 입니다🙌
 <br>
 
+### 📝Portfolio📝
+<a href="https://www.notion.so/605ff862c7f944e48b71afa3645459a2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FCFCFC?style=flat&logo=Notion&logoColor=black"></a>
+
 ### 📚Education📚
 #### AI기반 챗봇 및 OCR 개발 전문가 과정
 <br>
-
-### 📝Portfolio📝
-<a href="https://www.notion.so/605ff862c7f944e48b71afa3645459a2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FCFCFC?style=flat&logo=Notion&logoColor=black"></a>
 
 ### 🔥Languages and Tools🔥
 | AI | Front-end | Back-end |
@@ -23,14 +23,17 @@
 <hr>
 <br>
 
-###  [ KDT 1차 프로젝트 | SVL ](https://github.com/dustkim/SVL)
-> 서울 다국어 지도 서비스
+###  [  | Auto Aware ](https://github.com/dustkim/Auto-Aware)
+<img src="https://github.com/user-attachments/assets/23910004-cab4-4c2a-aec9-a620b1c91599">
+> driving care solution: 절도 탐지 및 운전 안전 서비스
 
-###  [ KDT 2차 프로젝트 | Sanjae.gg ](https://github.com/dustkim/AI-sanjae)
+###  [ Transformer를 활용한 산재 판별 서비스 | Sanjae.gg ](https://github.com/dustkim/AI-sanjae)
+<img src="https://github.com/user-attachments/assets/87800d6d-4fe5-4271-83bb-95c7457ac8de">
 > 산재 판별 AI 서비스
 
-###  [ KDT 3차 프로젝트 | Auto Aware ](https://github.com/dustkim/Auto-Aware)
-> driving care solution: 절도 탐지 및 운전 안전 서비스
+###  [ GPT API를 활용한 서울 다국어 지도 서비스 | SVL ](https://github.com/dustkim/SVL)
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/f94f0eee-29b3-415f-a618-3025894d2ae5">
+> 서울 다국어 지도 서비스
 
 <!--
 **dustkim/dustkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
